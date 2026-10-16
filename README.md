@@ -1,4 +1,4 @@
-## rustpresso
+## crabuccino
 A CLI tool written in Rust to manage cafe cashier orders.
 (This project has a fan aspect and is mostly for sample work)
 
@@ -6,12 +6,12 @@ A CLI tool written in Rust to manage cafe cashier orders.
 ```sh
 cargo build --release
 ```
-The binary is placed at target/release/rustpresso
+The binary is placed at target/release/crabuccino
 
 ## How to use
 This tool is in the form of a REPL and all events happen in the program itself. The program does not receive arguments (currently)
 ```sh
-rustpresso
+crabuccino
 ```
 ### commands:
 |command|discription|
